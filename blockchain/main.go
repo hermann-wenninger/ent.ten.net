@@ -15,6 +15,7 @@ import (
 	"github.com/gorilla/mux"
 )
 
+
 type Block struct {
 	Pos       int
 	Data      BookCheckout
